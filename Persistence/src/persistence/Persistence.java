@@ -7,7 +7,7 @@ package persistence;
 
 /**
  *
- * @author 13111249
+ * @author Leandro Oliveira, Ludgero Mascarenhas
  */
 public class Persistence {
 
